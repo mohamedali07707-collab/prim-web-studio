@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  
+  <!-- 1. الرئيسية -->
+  <url>
+    <loc>https://primwebstudio.site/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- 2. الخدمات -->
+  <url>
+    <loc>https://primwebstudio.site/services.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 3. الأعمال -->
+  <url>
+    <loc>https://primwebstudio.site/work.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 4. من نحن -->
+  <url>
+    <loc>https://primwebstudio.site/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- 5. تواصل معنا -->
+  <url>
+    <loc>https://primwebstudio.site/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
